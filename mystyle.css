@@ -1,0 +1,26 @@
+body {
+
+    background-color: lavenderblush;
+    color: black;
+    margin: 50px;
+    image-rendering: optimizeQuality;
+    
+    }
+    h1{text-decoration-line:underline ;
+        float: center;
+    }
+    img{float: right;}
+    h1,h2{
+        color: darkorchid;
+        padding-top: 0cap;
+        text-align: center;
+        line-break: auto;
+        padding: 5%;
+    }
+    h2{border-top-style:dotted
+    }
+    footer {
+        font-size: smaller;
+        text-align: right;
+     
+}
