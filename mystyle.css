@@ -1,3 +1,4 @@
+#Modified for Module 6 assignment
 body {
 
     background-color: lavenderblush;
@@ -15,7 +16,7 @@ body {
         padding-top: 0cap;
         text-align: center;
         line-break: auto;
-        padding: 5%;
+        padding: 10%;
     }
     h2{border-top-style:dotted
     }
